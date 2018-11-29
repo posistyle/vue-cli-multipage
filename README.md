@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-##项目文件结构
+## 项目文件结构
 
 ``` bash
 |---build
