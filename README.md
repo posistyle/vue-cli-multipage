@@ -17,7 +17,10 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
 ##项目文件结构
+
+``` bash
 |---build
 |---config
 |---dist
