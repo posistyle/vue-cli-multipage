@@ -26,16 +26,16 @@ npm run build --report
 |---dist
 |---src
     |---assets 资源
-    		|---css
-    		|---images
-    		|---js
+      |---css
+      |---images
+      |---js
     |---components组件
     |---pages各个模块
       |---index    index模块
         |---index.html
         |---index.js
         |---App.vue
-      |---ranking      info模块
+      |---ranking      ranking模块
         |---ranking.html
         |---ranking.js
         |---App.vue
