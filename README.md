@@ -17,5 +17,24 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+##项目文件结构
+|---build
+|---config
+|---dist
+|---src
+    |---assets 资源
+    		|---css
+    		|---images
+    		|---js
+    |---components组件
+    |---pages各个模块
+      |---index    index模块
+        |---index.html
+        |---index.js
+        |---App.vue
+      |---ranking      info模块
+        |---ranking.html
+        |---ranking.js
+        |---App.vue
+|---static
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
