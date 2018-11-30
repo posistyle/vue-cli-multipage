@@ -1,10 +1,20 @@
 <template>
   <div id="app">
+    <ul>
+      <li>
+        <router-link to="/index">首页</router-link>
+      </li>
+      <li>
+        <router-link to="/game">游戏</router-link>
+      </li>
+    </ul>
+    <router-view/>
     <p>{{ msg }}</p>
   </div>
 </template>
 
 <script>
+
 export default {
   name: 'App',
   data () {
